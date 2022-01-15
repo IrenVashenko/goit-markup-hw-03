@@ -317,7 +317,7 @@ address {
     display: flex;
     justify-content: center;
 }
-.categorie-item:not(:last-child){
+.categorie__item:not(:last-child){
     margin-right:8px;
 }
 .categorie-link {
